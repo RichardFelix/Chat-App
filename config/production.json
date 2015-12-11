@@ -1,10 +1,10 @@
 { 
- "dbURL":"mongodb://rfelix:richie@ds041160.mongolab.com:41160/chatcat",
+ "dbURL":"mongodb://XXXXXXXXXXXXX",
  "sessionSecret":"fdsfsdfsfsd",
      "fb":{
-        "appID":"1614595632161711",
-        "appSecret":"5da0a913debcde0c5600f7d67cdec15c",
-        "callbackURL":"http://chatcat-rfelix.herokuapp.com/auth/facebook/callback"
+        "appID":"XXXXXXXXXX",
+        "appSecret":"XXXXXXXXXXXXX",
+        "callbackURL":"http://XXXXXXXXXX"
     },
     "host":"http://chatcat-rfelix.herokuapp.com"
 } 
